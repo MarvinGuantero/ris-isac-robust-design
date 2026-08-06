@@ -1,7 +1,7 @@
 # Robust Joint Waveform and Passive Beamforming Design for RIS-Assisted ISAC Systems Under Imperfect Channel State Information
 
 ## Overview
-![Graphical Abstract](https://raw.githubusercontent.com/MarvinGuantero/irs-vs-df-relay-3gpp-scm/main/graphical_abstract.png)
+![Graphical Abstract](https://github.com/MarvinGuantero/ris-isac-robust-design/blob/main/Graphical%20Abstract%20Image.png)
 
 This repository contains the MATLAB implementation, simulation scripts, figures, and supporting materials accompanying the research paper:
 
